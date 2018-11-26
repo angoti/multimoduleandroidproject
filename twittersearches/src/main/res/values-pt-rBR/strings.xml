@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buscas no Twitter</string>
+    <string name="tagPrompt">Etiqueta de sua busca</string>
+    <string name="saveDescription">Salvar sua busca</string>
+    <string name="tagged_searches">Buscas etiquetadas</string>
+    <string name="enter_twitter_search_query_here">Entre sua busca no Twitter aqui</string>
+</resources>
